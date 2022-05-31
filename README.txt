@@ -1,5 +1,4 @@
-Student Name: Devanshi Krishna Shah
-Student ID: 6298935190
+Name: Devanshi Krishna Shah
 
 Operations executed in the project:
 1. Check Wallet
@@ -37,4 +36,3 @@ Order of calls:
 No idiosyncrasy observed in the project.
 No code is resued from anywhere.
 
-Note: In the given block files, block1.txt had 2 '\n' characters at the end, so I manually cleared one and checked the code, the output came as expected. In addition, I have handled both the cases where '\n' is the last character in the file and one where it isn't, by checking if the last character is '\n' or not.
